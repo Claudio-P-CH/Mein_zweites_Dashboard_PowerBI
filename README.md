@@ -11,7 +11,7 @@ Wichtig war mir dabei:
 - Gute Übersicht ohne Überladung
 - Klare, präzise Darstellung
 
-Ich habe verschiedene Elemente genutzt:
+#Ich habe verschiedene Elemente genutzt:
 
 - Matrix-Visual
 - Kreisdiagramme
